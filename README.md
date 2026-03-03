@@ -1,12 +1,12 @@
 # Hi there 👋, I'm Charles Obekpa
 
 ## About Me
-- 🤔 Exploring new technologies, building software solutions, and creating practical hacks
-- 💼 Informatics and Data Analyst at **APIN**
-- 🎓 Master’s Degree in Computer Science, **Benue State University**
-- 🎓 Postgraduate Program in Data Science & Business Analytics, **University of Texas at Austin**
-- 🌱 Passionate about data-driven solutions, AI/ML, and software development
-- 🎲 Enjoys Scrabble and problem-solving challenges
+. 🤔 Exploring new technologies, building software solutions, and creating practical hacks
+. 💼 Informatics and Data Analyst at **APIN**
+. 🎓 Master’s Degree in Computer Science, **Benue State University**
+. 🎓 Postgraduate Program in Data Science & Business Analytics, **University of Texas at Austin**
+. 🌱 Passionate about data-driven solutions, AI/ML, and software development
+. 🎲 Enjoys Scrabble and problem-solving challenges
 
 ## Tech Stack
 - **Programming & Data:** Python, JavaScript
