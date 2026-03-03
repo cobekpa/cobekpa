@@ -1,48 +1,23 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
+# Hi there 👋, I'm Charles Obekpa
 
-<h2> Hey there! I'm Charles.</h2>
+## About Me
+🤔 Exploring new technologies, building software solutions, and creating practical hacks.  
+💼 Informatics and Data Analyst at **APIN**  
+🎓 Master’s Degree in Computer Science, **Benue State University**  
+🌱 Passionate about **data-driven solutions, AI/ML, and software development**  
+🎲 Enjoys **Scrabble and problem-solving challenges**
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+## Tech Stack
+**Programming & Data:** Python, R, JavaScript, C++  
+**Web Development:** HTML5, CSS3, Bootstrap, Node.js, React  
+**Databases:** MySQL, MongoDB  
+**Tools:** Git, GitHub, Markdown, Visual Studio Code, RStudio  
+**Other:** Data Annotation & QA pipelines, NLP, Computer Vision
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Currently studying for master degree in computer science in Benue State University .
-- 💼 &nbsp; Working as Informatics and Data Analyst at APIN.
-- 🌱 &nbsp; I enjoy playing scrabble.
+## Portfolio Highlights
+- **Fresh Produce Image Annotation & Classification**  
+- **Nigerian Fintech Sentiment Annotation**  
+- **Annotation QA / Quality Control Pipeline**  
 
-
-<h3> 🛠 &nbsp;Tech Stack</h3>
-
-- 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Data Analysis](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![Machine Learning](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![JavaScript](https://img.shields.io/badge/-Solidity-333333?style=flat&logo=solidity)
-  ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-- 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![C++](https://img.shields.io/badge/-Jupyternotebook-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
-  
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/charles-e-obekpa-50425392/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Charles%20Obekpa%20-blue?style=flat-square&logo=linkedin"></a>
-
-<a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-obekpacharles@gmail.com-blue?style=flat-square&logo=gmail"></a>
-</p>
-
+## GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=cobekpa&show_icons=true&theme=radical)
