@@ -12,18 +12,18 @@
 ## Tech Stack
 
 <pre>
-```**Programming & Data:** 🐍 Python, 💻 JavaScript  
-**Web Development:** 🌐 HTML5, CSS3, Bootstrap, Node.js, React  
-**Databases:** 🛢 MySQL, MongoDB  
-**Tools:** ⚙️ Git, GitHub, Markdown, Visual Studio Code  
-**Other:** 📊 Data Annotation & QA pipelines, 📝 NLP, 🖼 Computer Vision```</pre>
+```- Programming & Data: 🐍 Python, 💻 JavaScript  
+   - Web Development: 🌐 HTML5, CSS3, Bootstrap, Node.js, React  
+   - Databases: 🛢 MySQL, MongoDB  
+   - Tools: ⚙️ Git, GitHub, Markdown, Visual Studio Code  
+   - Other: 📊 Data Annotation & QA pipelines, 📝 NLP, 🖼 Computer Vision```</pre>
 
 ## Portfolio Highlights
 
 <pre>
-``🍅 **Fresh Produce Image Annotation & Classification**  
-  💳 **Nigerian Fintech Sentiment Annotation**  
-  ✅ **Annotation QA / Quality Control Pipeline**```</pre>
+``🍅 Fresh Produce Image Annotation & Classification 
+  💳 Nigerian Fintech Sentiment Annotation
+  ✅ Annotation QA / Quality Control Pipeline```</pre>
 
 
 
