@@ -10,7 +10,7 @@ I build web applications and data solutions, with a focus on health tech and on 
 
 - 💼 Senior Technical Associate (Health Informatics) at **APIN Public Health Initiatives**, supporting EMR systems across 25 health facilities for 5+ years
 - 🚀 Built and deployed **[OnErrand](https://onerrand.ng)**, a Nigerian task marketplace
-- 🎓 M.Sc. Computer Science, **Benue State University**
+- 🎓 M.Sc. Computer Science, **Benue State University** (now Rev. Fr. Moses Orshio Adasu University, Makurdi)
 - 🎓 Postgraduate Program in Data Science & Business Analytics, **University of Texas at Austin**
 - 🌱 Interested in health tech, data-driven solutions, AI/ML and full-stack development
 - 🤝 Open to remote roles in software development, health tech and data
