@@ -8,13 +8,25 @@ I build web applications and data solutions, with a focus on health tech and on 
 
 ## 🧑‍💻 About Me
 
-- 💼 Informatics and Data Analyst at **APIN Public Health Initiatives**
+- 💼 Senior Technical Associate (Health Informatics) at **APIN Public Health Initiatives**, supporting EMR systems across 25 health facilities for 5+ years
 - 🚀 Built and deployed **[OnErrand](https://onerrand.ng)**, a Nigerian task marketplace
 - 🎓 M.Sc. Computer Science, **Benue State University**
 - 🎓 Postgraduate Program in Data Science & Business Analytics, **University of Texas at Austin**
 - 🌱 Interested in health tech, data-driven solutions, AI/ML and full-stack development
 - 🤝 Open to remote roles in software development, health tech and data
 - 🎲 Enjoys Scrabble and problem-solving challenges
+
+---
+
+## 🏥 Experience
+
+**Senior Technical Associate (Health Informatics)** · APIN Public Health Initiatives · *5+ years*
+
+- 🏥 Manage and maintain the **NigeriaMRS (NMRS)** electronic medical record system across **25 primary health centres**, keeping patient data available, accurate and secure
+- ⚙️ Build **Python and SQL scripts** that automate repetitive EMR and data operations, cutting manual work and reducing errors
+- 🧑‍🏫 Train and mentor **data entry clerks** on correct EMR use, data capture standards and troubleshooting
+- 📊 Run data quality checks, resolve system issues and support routine programme reporting
+- 🔗 Bridge clinical teams and technology, turning facility needs into practical technical solutions
 
 ---
 
@@ -49,7 +61,7 @@ I build web applications and data solutions, with a focus on health tech and on 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
 **Data & AI**
-📊 Data Analytics · 🏥 Health Informatics · 📝 NLP · 🖼 Computer Vision · ✅ Data Annotation & QA Pipelines
+📊 Data Analytics · 🏥 Health Informatics · 🩺 NigeriaMRS (NMRS) / EMR Systems · 🤖 Process Automation · 📝 NLP · 🖼 Computer Vision · ✅ Data Annotation & QA Pipelines
 
 ---
 
